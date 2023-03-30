@@ -20,7 +20,6 @@ namespace Examen2._28._3._2023
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
-            this.Close();
         }
     }
 }
